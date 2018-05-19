@@ -1,8 +1,8 @@
 import pandas as pd
 
-# path1 = '/Users/dzzxjl/PycharmProjects/tianchi/titanic_test/input/train.csv'
-# path2 = '/Users/dzzxjl/PycharmProjects/tianchi/titanic_test/input/test.csv'
-# path3 = '/Users/dzzxjl/PycharmProjects/tianchi/titanic_test/input/gender_submission.csv'
+# path1 = '/Users/dzzxjl/PycharmProjects/tianchi/Titanic/input/train.csv'
+# path2 = '/Users/dzzxjl/PycharmProjects/tianchi/Titanic/input/test.csv'
+# path3 = '/Users/dzzxjl/PycharmProjects/tianchi/Titanic/input/gender_submission.csv'
 #
 # train = pd.read_csv(path1)
 # test = pd.read_csv(path2)
